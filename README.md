@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @deyanira87
-- 👀 I’m interested in Python, Ruby, React/React Native, Docker, CI/CD and all kind of stuff that we can use in servers admin.
+- 👀 I’m interested in FrontEnd, Python, Ruby, React/React Native, Docker, CI/CD and all kind of stuff that we can use in servers admin.
 - 🌱 I’m currently learning NextJS, Cyber security
+- ✨ I enjoy learning all about technologies, and coding. I am always looking for new challenges and opportunities to learn and grow.
+- 💞️ In love with Traefik
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -->
